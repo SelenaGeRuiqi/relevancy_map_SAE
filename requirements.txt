@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+huggingface_hub
+numpy
+matplotlib
+opencv-python
+Pillow
+ftfy
+regex
