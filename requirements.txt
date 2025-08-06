@@ -8,3 +8,5 @@ opencv-python
 Pillow
 ftfy
 regex
+seaborn
+scipy
